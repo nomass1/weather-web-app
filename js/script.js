@@ -10,7 +10,7 @@ const wrapper = document.querySelector(".wrapper"),
   arrowBack = wrapper.querySelector("header i");
 
 let api;
-let apiKey = "a2f3175ee08c2d23a76de35d3a14ccb5";
+let apiKey = "b190a0605344cc4f3af08d0dd473dd25";
 
 const weatherChartCtx = document.getElementById("weatherChart").getContext("2d");
 let weatherChart;
